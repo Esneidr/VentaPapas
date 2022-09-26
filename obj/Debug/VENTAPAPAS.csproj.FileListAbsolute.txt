@@ -1,0 +1,10 @@
+D:\C#\VENTAPAPAS\VENTAPAPAS\obj\Debug\VENTAPAPAS.csproj.AssemblyReference.cache
+D:\C#\VENTAPAPAS\VENTAPAPAS\obj\Debug\VENTAPAPAS.Login.resources
+D:\C#\VENTAPAPAS\VENTAPAPAS\obj\Debug\VENTAPAPAS.Properties.Administrador.resources
+D:\C#\VENTAPAPAS\VENTAPAPAS\obj\Debug\VENTAPAPAS.Properties.Empleados.resources
+D:\C#\VENTAPAPAS\VENTAPAPAS\obj\Debug\VENTAPAPAS.Properties.Resources.resources
+D:\C#\VENTAPAPAS\VENTAPAPAS\obj\Debug\VENTAPAPAS.Properties.Vendedor.resources
+D:\C#\VENTAPAPAS\VENTAPAPAS\obj\Debug\VENTAPAPAS.csproj.GenerateResource.cache
+D:\C#\VENTAPAPAS\VENTAPAPAS\obj\Debug\VENTAPAPAS.csproj.CoreCompileInputs.cache
+D:\C#\VENTAPAPAS\VENTAPAPAS\obj\Debug\VENTAPAPAS.Properties.Papas.resources
+D:\C#\VENTAPAPAS\VENTAPAPAS\obj\Debug\VENTAPAPAS.Properties.Productos.resources
